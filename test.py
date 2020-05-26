@@ -9,3 +9,8 @@ for i in list:
 (1) Object & Class
 (2) Inheritance
 (3) Encapuslation
+
+# Algorithm
+(1) Sorting
+(2) Time Complexity
+(3) Space Complexity
